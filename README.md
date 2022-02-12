@@ -24,6 +24,7 @@ $ node server.js
 ```
 
 <br />
+The app will be available for access on your browser at http://localhost:3000
 
 <p align="center">Made with 💜 by Davy de Souza</p>
 
